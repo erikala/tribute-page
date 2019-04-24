@@ -1,0 +1,46 @@
+body {
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+
+#main {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#headline-div {
+  background-color: #b2b9c4;
+  margin: 30px;
+  padding: 20px;
+  text-align: center;
+}
+
+#img-div {
+  background-color: #e6ebf4;
+  margin: 50px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+img {
+  max-width: 70%;
+  height: auto;
+  display: block;
+}
+
+#tribute-info p {
+  text-align:left;
+  font-size: 18px;
+}
+
+#tribute-link {
+  text-align: center;
+}
+
+#copyright {
+  text-align: center;
+  font-size: 16px;
+}
